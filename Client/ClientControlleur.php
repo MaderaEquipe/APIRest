@@ -15,7 +15,7 @@ class ClientControlleur
      */
     public function test()
     {
-        return "Hello World  ca marche";
+        return "Coucou clemence";
     }
 
     /**
